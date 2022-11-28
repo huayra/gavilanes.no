@@ -173,11 +173,11 @@ params:
     # title: "Custom Name"
     items:
       - title: Vinddrag
-        content: Jeg leverer her en fargerike blanding av tekster som gjerne kan kalles «politiske vers» om å vandre og flytte, om kjærlighet og om det å være menneske som del av naturen.
-Ordene kan ta deg til en reise hvor du vil bli kjent med steder, som du kanskje vil forandre vinkel i den formen du ser de stedene framover. Ordene kan  røre deg igjen og igjen i den fine retningen hvor vi menneske kan bli en del av helheten. Ta deg tid til den reisen og bli med
+        content: 
+          Jeg leverer her en fargerike blanding av tekster som gjerne kan kalles «politiske vers» om å vandre og flytte, om kjærlighet og om det å være menneske som del av naturen.
+          Ordene kan ta deg til en reise hvor du vil bli kjent med steder, som du kanskje vil forandre vinkel i den formen du ser de stedene framover. Ordene kan  røre deg igjen og igjen i den fine retningen hvor vi menneske kan bli en del av helheten. Ta deg tid til den reisen og bli med
 
-
-#        image: /images/projects/profile.png
+        image: /images/projects/cover.png
 #        featured:
 #          name: Demo
 #          link: https://hugo-profile.netlify.app
