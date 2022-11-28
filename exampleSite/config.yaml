@@ -93,18 +93,18 @@ params:
   #     secondaryColor:
 
   # If you want to customize the menu, you can change it here
-   navbar:
+  navbar:
   #   align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
   #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
   #   brandName: "Profile" # Brand name for the brand | default is the title variable
-     disableSearch: true
+    disableSearch: true
 
-     menus:
+  #   menus:
   #     disableAbout: true
-       disableExperience: true
-       disableEducation: true
+  #     disableExperience: true
+  #     disableEducation: true
   #     disableProjects: true
-       disableAchievements: true
+  #     disableAchievements: true
   #     disableContact: true
 
   # Hero
