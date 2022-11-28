@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://gavilanes.no"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Vilma Gavilanes Official"
 theme: hugo-profile
 
 outputs:
@@ -170,7 +170,7 @@ params:
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    title: "Prosjekter // Proyectos"
     items:
       - title: Vinddrag
         content: 
