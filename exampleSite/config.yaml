@@ -110,7 +110,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hola, me llamo / Hi, mitt navn er"                                                                                                        "
+    intro: "Hola, me llamo / Hi, mitt navn er"
     title: "Vilma Gavilanes"
     subtitle: "Vinddrag - Ráfagas de viento"
     content: "Fortellinger, politisk poesi // Historias cortas, poesía política"
